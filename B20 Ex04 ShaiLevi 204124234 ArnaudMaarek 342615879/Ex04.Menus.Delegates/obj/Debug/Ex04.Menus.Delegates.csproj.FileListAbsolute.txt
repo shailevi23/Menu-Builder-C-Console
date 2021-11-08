@@ -1,0 +1,14 @@
+C:\Users\Shai Levy\source\repos\B20 Ex04 Shai 204124234 Arnaud 342615879\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.dll.config
+C:\Users\Shai Levy\source\repos\B20 Ex04 Shai 204124234 Arnaud 342615879\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.dll
+C:\Users\Shai Levy\source\repos\B20 Ex04 Shai 204124234 Arnaud 342615879\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.pdb
+C:\Users\Shai Levy\source\repos\B20 Ex04 Shai 204124234 Arnaud 342615879\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Shai Levy\source\repos\B20 Ex04 Shai 204124234 Arnaud 342615879\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.dll
+C:\Users\Shai Levy\source\repos\B20 Ex04 Shai 204124234 Arnaud 342615879\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.pdb
+C:\Users\Shai Levy\source\repos\B20 Ex04 Shai 204124234 Arnaud 342615879\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csprojAssemblyReference.cache
+C:\Users\Shai Levy\source\repos\B20 Ex04 ShaiLevi 204124234 ArnaudMaarek 342615879\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.dll.config
+C:\Users\Shai Levy\source\repos\B20 Ex04 ShaiLevi 204124234 ArnaudMaarek 342615879\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.dll
+C:\Users\Shai Levy\source\repos\B20 Ex04 ShaiLevi 204124234 ArnaudMaarek 342615879\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.pdb
+C:\Users\Shai Levy\source\repos\B20 Ex04 ShaiLevi 204124234 ArnaudMaarek 342615879\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csprojAssemblyReference.cache
+C:\Users\Shai Levy\source\repos\B20 Ex04 ShaiLevi 204124234 ArnaudMaarek 342615879\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Shai Levy\source\repos\B20 Ex04 ShaiLevi 204124234 ArnaudMaarek 342615879\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.dll
+C:\Users\Shai Levy\source\repos\B20 Ex04 ShaiLevi 204124234 ArnaudMaarek 342615879\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.pdb
